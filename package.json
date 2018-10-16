@@ -18,11 +18,11 @@
     "lib": "."
   },
   "dependencies": {
-    "debug": "*",
+    "debug": "^3.2.1",
     "make-plural": "^3.0.3",
     "math-interval-parser": "^1.1.0",
     "messageformat": "^0.3.1",
-    "mustache": "*",
+    "mustache": "^2.3.12",
     "sprintf-js": ">=1.0.3"
   },
   "devDependencies": {
